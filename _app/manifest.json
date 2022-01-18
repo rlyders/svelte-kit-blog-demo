@@ -1,0 +1,81 @@
+{
+  ".svelte-kit/runtime/client/start.js": {
+    "file": "start-73460962.js",
+    "src": ".svelte-kit/runtime/client/start.js",
+    "isEntry": true,
+    "imports": [
+      "_vendor-b5a793c6.js",
+      "_paths-4b3c6e7e.js"
+    ],
+    "dynamicImports": [
+      "src/routes/__layout.svelte",
+      ".svelte-kit/runtime/components/error.svelte",
+      "src/routes/index.svelte",
+      "src/routes/about.svelte",
+      "src/routes/[slug].svelte"
+    ]
+  },
+  "src/routes/__layout.svelte": {
+    "file": "pages/__layout.svelte-d1b10ab2.js",
+    "src": "src/routes/__layout.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-b5a793c6.js",
+      "_paths-4b3c6e7e.js"
+    ],
+    "css": [
+      "assets/pages/__layout.svelte-55b038dd.css"
+    ]
+  },
+  ".svelte-kit/runtime/components/error.svelte": {
+    "file": "error.svelte-336522b6.js",
+    "src": ".svelte-kit/runtime/components/error.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-b5a793c6.js"
+    ]
+  },
+  "src/routes/index.svelte": {
+    "file": "pages/index.svelte-619379fb.js",
+    "src": "src/routes/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-b5a793c6.js",
+      "_paths-4b3c6e7e.js"
+    ],
+    "css": [
+      "assets/pages/index.svelte-1254d3f5.css"
+    ]
+  },
+  "src/routes/about.svelte": {
+    "file": "pages/about.svelte-4b77f0d9.js",
+    "src": "src/routes/about.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-b5a793c6.js"
+    ]
+  },
+  "src/routes/[slug].svelte": {
+    "file": "pages/_slug_.svelte-b8994174.js",
+    "src": "src/routes/[slug].svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-b5a793c6.js",
+      "_paths-4b3c6e7e.js"
+    ],
+    "css": [
+      "assets/pages/_slug_.svelte-e75aca9d.css"
+    ]
+  },
+  "_vendor-b5a793c6.js": {
+    "file": "chunks/vendor-b5a793c6.js"
+  },
+  "_paths-4b3c6e7e.js": {
+    "file": "chunks/paths-4b3c6e7e.js"
+  }
+}
